@@ -73,12 +73,13 @@ article {
 a {
   text-decoration: none;
   color: #333;
-  border-bottom: 3px solid;
+  border-bottom: 2px solid;
   border-color: var(--style-text-color);
 }
 
 a:hover {
-  color: border-color: var(--style-text-color);
+  color: var(--style-text-color);
+  border-color: var(--style-text-color);
 }
 
 p {
