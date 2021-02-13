@@ -30,6 +30,12 @@ body, html {
   /*padding-bottom: 60px;*/
 }
 
+@media (max-width: 512px) {
+    .content {
+        width: 100%;
+    }
+}
+
 header {
   display: flex;
   justify-content: space-between;
