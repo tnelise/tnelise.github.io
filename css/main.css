@@ -69,6 +69,7 @@ nav {
 article {
   margin: 20px;
   padding: 0px;
+  overflow: scroll;
 }
 
 .profile {
