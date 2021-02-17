@@ -65,7 +65,7 @@ nav {
   letter-spacing: 0.2em;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
     .name {
         width: 40%;
     }
