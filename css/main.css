@@ -46,7 +46,7 @@ header {
 }
 
 .name {
-  font-family: Merriweather;
+  font-family: Merriweather; serif;
   font-size: 45px;
   color: var(--style-text-color);
   display: inline-block;
@@ -58,9 +58,9 @@ header {
 
 nav {
   color: var(--style-text-color);
-  font-size: 1.2em;
+  font-size: 1.3em;
   text-align: right;
-  margin: 30px 10px 0px 10px;
+  margin: auto 10px 12px 10px;
   height: 50%;
   letter-spacing: 0.2em;
 }
@@ -68,9 +68,6 @@ nav {
 @media (max-width: 400px) {
     .name {
         width: 40%;
-    }
-    nav {
-      margin: auto 10px 10px 10px;
     }
 }
 
