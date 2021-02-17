@@ -15,7 +15,7 @@ window.onload = function() {
 		r.style.setProperty('--style-text-color', '#EE0066');
 	}
 	if (randomNumber == 3) {
-		r.style.setProperty('--main-bg-color', '#D4FFDF');
+		r.style.setProperty('--main-bg-color', '#DDF6DD');
 		r.style.setProperty('--main-text-color', '#333');
 		r.style.setProperty('--style-text-color', '#990099');
 	}
