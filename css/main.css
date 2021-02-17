@@ -69,6 +69,9 @@ nav {
     .name {
         width: 40%;
     }
+    nav {
+      margin: 60px 10px 0px 10px;
+    }
 }
 
 article {
