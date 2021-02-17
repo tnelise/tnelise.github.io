@@ -30,7 +30,7 @@ body, html {
   /*padding-bottom: 60px;*/
 }
 
-@media (max-width: 512px) {
+@media (max-width: 600px) {
     .content {
         width: 100%;
     }
@@ -60,9 +60,8 @@ nav {
   color: var(--style-text-color);
   font-size: 1.5em;
   text-align: right;
-  margin-top: 30px;
+  margin: 30px 10px 0px 10px;
   height: 50%;
-  bottom: 0px;
   letter-spacing: 0.2em;
 }
 
