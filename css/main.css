@@ -46,7 +46,7 @@ header {
 }
 
 .name {
-  font-family: Merriweather; serif;
+  font-family: Merriweather, serif;
   font-size: 45px;
   color: var(--style-text-color);
   display: inline-block;
